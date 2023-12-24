@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Camobeast
-- 👀 I’m interested in programming, web developement and video games.
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript
+- 👀 I’m interested in programming, web developementy video games, music and calisthenics.
+- 🌱 I’m currently learning React, TailwindCSS and SvelteKit
 - 📫 You can reach me on my LinkedIn or email: jakub.lilley@gmail.com
 
 <!---
