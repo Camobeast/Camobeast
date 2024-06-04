@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Camobeast
-- 👀 I’m interested in programming, web developementy video games, music and calisthenics.
+- 👋 Hi, I’m Jakub
+- 👀 I’m interested in programming, web developement, video games, music and calisthenics.
 - 🌱 I’m currently learning React, TailwindCSS and SvelteKit
 - 📫 You can reach me on my LinkedIn or email: jakub.lilley@gmail.com
 
